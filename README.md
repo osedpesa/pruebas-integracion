@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=1rLBjRF0ep0&ab_channel=FaztCode
 
 https://www.youtube.com/watch?v=X2ndbJAnQKM&ab_channel=IshiThemes-EcommerceExperts
 
+https://www.youtube.com/watch?v=zkv7VM_qZBs&ab_channel=FerNava
+
+https://www.youtube.com/watch?v=uj9WpuFIZb8&t=96s&ab_channel=BdThemesLtd
+
