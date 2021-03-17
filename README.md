@@ -19,3 +19,9 @@ Plugin Sociales
 Solo se puede aplicar en una página https, por lo que no se pudo implementar en este proyecto
 
 [Link documentación](https://developers.facebook.com/docs/messenger-platform/discovery/facebook-chat-plugin)
+
+# Videos Complementarios
+
+https://www.youtube.com/watch?v=1rLBjRF0ep0&ab_channel=FaztCode 
+https://www.youtube.com/watch?v=X2ndbJAnQKM&ab_channel=IshiThemes-EcommerceExperts
+
