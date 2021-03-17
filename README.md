@@ -20,8 +20,15 @@ Solo se puede aplicar en una página https, por lo que no se pudo implementar en
 
 [Link documentación](https://developers.facebook.com/docs/messenger-platform/discovery/facebook-chat-plugin)
 
+# Integración con Instagram
+
+Es necessaria una página https para poder obtener el token
+
+[Link documentación](https://developers.facebook.com/docs/instagram-basic-display-api)
+
 # Videos Complementarios
 
 https://www.youtube.com/watch?v=1rLBjRF0ep0&ab_channel=FaztCode 
+
 https://www.youtube.com/watch?v=X2ndbJAnQKM&ab_channel=IshiThemes-EcommerceExperts
 
